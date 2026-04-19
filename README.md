@@ -78,7 +78,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: YOUR_LINK  
+- 💼 LinkedIn: [YOUR_LINK](https://linkedin.com/in/piyush-taneja-20b915304)  
 - 📧 Email: ptaneja1_be23@thapar.edu  
 
 ---
