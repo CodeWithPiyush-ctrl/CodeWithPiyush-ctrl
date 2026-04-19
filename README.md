@@ -70,10 +70,7 @@
 - Mentored 10+ students  
 - Organized technical workshops  
 
----
 
-## 📊 GitHub Stats
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
