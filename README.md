@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Piyush Taneja
 
-🎓 B.E. Computer Engineering @ Thapar Institute of Engineering & Technology (CGPA: 8.55)  
+🎓 B.E. Computer Engineering @ Thapar Institute of Engineering & Technology (CGPA: 8.60)  
 💡 Software Engineering • Machine Learning • Data Structures  
 🚀 Passionate about building scalable systems and intelligent models  
 
